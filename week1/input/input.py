@@ -1,0 +1,6 @@
+name = input("Enter name: ")
+city = input("enter city: ")
+zipcode = input("enter zip code: ")
+print("your name is " + name)
+print("your city is " + city)
+print("your zip code is " + zipcode)

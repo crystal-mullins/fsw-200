@@ -8,7 +8,7 @@ else:
    print("{0} Sorry that is not the number YOU LOSE".format(num))
 if (num > a) :
    print("{0} You guessed to high!".format(num))
-else:
+elif (num < a):
    print("{0} You guessed to low".format(num))
 
 print("{}{}".format(a,b))
